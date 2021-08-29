@@ -296,3 +296,17 @@ Add the correct display in Chrome and Safari.
 summary {
 	display: list-item;
 }
+
+/* Remove default list style and ul padding */
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+/* Make images consistent */
+
+img {
+  max-width: 100%;
+  display: block;
+}
