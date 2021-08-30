@@ -11,7 +11,7 @@ body {
   line-height: 1.7;
   color: var(--clr-neutral-grayish-blue);
   text-align: center;
-  padding-top: 7em;
+  padding-top: 6em;
   background-image: url(../images/bg-header-mobile.png);
   background-repeat: no-repeat;
   background-position: top right;
