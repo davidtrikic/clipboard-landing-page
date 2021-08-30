@@ -54,7 +54,7 @@ h1, h2, h3 {
   display: inline-block;
 }
 
-/*Buttons*/
+/* Buttons */
 
 .download-button {
   font-size: 16px;
@@ -83,7 +83,7 @@ h1, h2, h3 {
   cursor: pointer;
 }
 
-/*Computer section*/
+/* Computer section */
 
 .computer-wrapper {
   display: flex;
@@ -94,13 +94,13 @@ h1, h2, h3 {
   padding-right: 1em;
 }
 
-/*Devices section*/
+/* Devices section */
 
 .image-devices {
   margin-top: 3rem;
 }
 
-/*Tools section*/
+/* Tools section */
 
 .tool-card {
   font-size: 16px;
@@ -111,25 +111,25 @@ h1, h2, h3 {
   margin-top: 2em;
 }
 
-/*Testimonials section*/
+/* Partners section */
 
-.testimonials {
+.partners {
   margin: 2em 0;
   padding: 0;
 }
-.testimonials ul {
+.partners ul {
   margin: 0;
   display: inline-block;
 }
-.testimonials li {
+.partners li {
   display: inline-block;
   margin: 1em 2em;
 }
-.testimonials img {
+.partners img {
   height: 100%;
 }
 
-/*Footer*/
+/* Footer */
 
 footer {
   display: flex;
@@ -164,7 +164,7 @@ footer a:hover svg, footer a:active svg {
   margin-right: 0;
 }
 
-/*Attribution*/ 
+/* Attribution */ 
 
 .attribution { 
   font-size: 11px; 
@@ -179,7 +179,7 @@ footer a:hover svg, footer a:active svg {
   padding-bottom: 1em;
 }
 
-/*Media queries*/
+/* Media queries */
 
 @media all and (min-width: 768px) {
   body {
